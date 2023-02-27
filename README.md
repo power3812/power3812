@@ -1,10 +1,10 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=power3812&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=power3812&theme=github_dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=power3812&theme=github_dark" />
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
