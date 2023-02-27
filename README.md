@@ -1,8 +1,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=power3812&count_private=true&show_icons=true" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=power3812&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=power3812" />
+  <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=power3812&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=power3812&theme=github_dark" />
+</a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img align="center" height="151px" src="https://github-profile-trophy.vercel.app/?username=power3812&title=Joined2020,MultiLanguage,Commit,PullRequest,Repositories" />
 </a>
 
 <!--
