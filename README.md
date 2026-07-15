@@ -1,14 +1,17 @@
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=power3812&theme=github_dark" />
+  <img align="center" src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=power3812&theme=github_dark" />
+  <img align="left" width="336" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
 </a>
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="left" width="336" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=power3812&theme=github_dark" />
+  <img align="left" width="336" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 </a>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img align="center" height="151px" src="https://github-profile-trophy.vercel.app/?username=power3812&title=Joined2020,MultiLanguage,Commit,PullRequest,Repositories" />
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="left" width="336" src="./profile-summary-card-output/github_dark/3-stats.svg" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img align="left" width="336" src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 </a>
 
 <!--
